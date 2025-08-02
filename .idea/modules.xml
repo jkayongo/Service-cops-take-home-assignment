@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/TakeHomeAssignmentWithJava.iml" filepath="$PROJECT_DIR$/TakeHomeAssignmentWithJava.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/TakeHomeAssignment.iml" filepath="$PROJECT_DIR$/.idea/TakeHomeAssignment.iml" />
+>>>>>>> a4fe18755239f916daac70f5c66321a4436503f0
     </modules>
   </component>
 </project>
